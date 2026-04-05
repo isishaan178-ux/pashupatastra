@@ -1,0 +1,4 @@
+{
+  "name": "pashupatastra",
+  "description": "The adaptive multi-agent orchestrator for Claude Code. Triages complexity, challenges plans with adversarial agents, and executes via a scalable CEO/Manager/Worker hierarchy."
+}

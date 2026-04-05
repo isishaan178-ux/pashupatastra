@@ -1,0 +1,15 @@
+{
+  "name": "pashupatastra",
+  "owner": {
+    "name": "Ishaan",
+    "url": "https://github.com/isishaan178-ux"
+  },
+  "plugins": [
+    {
+      "name": "pashupatastra",
+      "source": "./",
+      "description": "Adaptive multi-agent orchestrator with triage, adversarial challengers, and CEO/Manager/Worker hierarchy",
+      "version": "1.0.0"
+    }
+  ]
+}
