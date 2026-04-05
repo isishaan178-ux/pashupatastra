@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pashupatastra Banner" width="100%">
+  <img src="assets/banner.svg" alt="Pashupatastra Banner" width="100%">
 </p>
 
 <h1 align="center">Pashupatastra</h1>
